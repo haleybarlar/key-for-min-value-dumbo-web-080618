@@ -9,4 +9,4 @@ end
 end
 
 min = 0 
-while min < 
+while min < name_hash.length 
