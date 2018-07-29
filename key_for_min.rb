@@ -12,5 +12,10 @@ end
 min
 end
 
+name_hash.collect do |x|
+  if name_hash[x] < x 
+    x = name_hash[x]
+    
+  
 
   
