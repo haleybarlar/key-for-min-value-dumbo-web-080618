@@ -10,5 +10,7 @@ end
 
 min = 0 
 while min < name_hash.length 
-if name_hash[min] < min
-  min = name_hash[min]
+min += 1 
+  if name_hash[min] < min
+    min = name_hash[min]
+  
