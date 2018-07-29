@@ -8,3 +8,5 @@ def key_for_min_value(name_hash)
 end
 end
 
+min = 0 
+while min < 
